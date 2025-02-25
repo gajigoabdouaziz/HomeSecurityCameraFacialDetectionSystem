@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajigoabdouaziz&label=Profile%20views&color=0e75b6&style=flat" alt="gajigoabdouaziz" /> </p>
 
-- 🔭 I’m currently working on **Fashion Trend Predictions**
+- 🔭 I’m currently working on **Facial Detection using the built in camera*
 
 - 🌱 I’m currently learning **Tensor Flow**
 
